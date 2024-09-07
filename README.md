@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me: I'm Matteo, a biomedical engineer, Java and Python developer; I’m passionate about combining technology and healthcare innovation!
+# 💫 I'm Matteo, a Biomedical Engineer, Java and Python Developer; I’m passionate about combining technology and healthcare innovation!
 🔭 I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs<br>👯 I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python, as well as biomedical engineering research<br>🤝 I’m looking for help with improving my knowledge of application security, particularly beyond SQL injection vulnerabilities, and securing APIs and backend systems<br>🌱 I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems<br>💬 Ask me about software development and biomedical engineering research<br>⚡ Fun fact: When I'm not coding, you’ll probably find me practicing guitar or doing calisthenics
 
 
