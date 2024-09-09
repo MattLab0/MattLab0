@@ -1,6 +1,6 @@
-## Welcome 👋
+# Welcome 👋
 
-# 💫 I'm Matteo, a Biomedical Engineer and Java & Python Developer; I’m passionate about combining technology and healthcare innovation!
+## 💫 I'm Matteo, a Biomedical Engineer and Java & Python Developer; I’m passionate about combining technology and healthcare innovation!
 🔭 I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs<br>
 👯 I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python, as well as biomedical engineering research<br>
 🤝 I’m enhancing my knowledge of application security, with a focus on securing APIs and backend systems; feel free to help me with additional resources<br>
@@ -9,7 +9,7 @@
 ⚡ Fun fact: When I'm not coding, you’ll probably find me practicing guitar or doing calisthenics
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
 
 # 💻 Tech Stack:
