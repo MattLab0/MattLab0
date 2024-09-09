@@ -51,7 +51,8 @@
 ![Windows 7](https://img.shields.io/badge/Windows%207-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 8.1](https://img.shields.io/badge/Windows%208.1-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Mint (Ubuntu)](https://img.shields.io/badge/Linux%20Mint-%23007C3B.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%23007C3B.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ### Biomedical Tools
