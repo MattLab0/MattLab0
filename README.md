@@ -47,9 +47,24 @@
 ### Tools for APIs and Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Operating Systems
+![Windows 7](https://img.shields.io/badge/Windows%207-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 8.1](https://img.shields.io/badge/Windows%208.1-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint (Ubuntu)](https://img.shields.io/badge/Linux%20Mint-%23007C3B.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
+
+
+### Biomedical Tools
+![MATLAB](https://img.shields.io/badge/matlab-%23E6EBE0.svg?style=for-the-badge&logo=matlab&logoColor=black)
+![LabVIEW](https://img.shields.io/badge/labview-%23F2C300.svg?style=for-the-badge&logo=labview&logoColor=white)
+![SPM](https://img.shields.io/badge/spm-%23121D6E.svg?style=for-the-badge&logo=spm&logoColor=white)
+![FreeSurfer](https://img.shields.io/badge/freesurfer-%23F16E2E.svg?style=for-the-badge&logo=freesurfer&logoColor=white)
+
 ### File Formats
 ![JSON](https://img.shields.io/badge/json-%23f7e018.svg?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![NIFTI](https://img.shields.io/badge/NIFTI-%23013243.svg?style=for-the-badge&logo=nifti&logoColor=white)
+![DICOM](https://img.shields.io/badge/DICOM-%23FF6C37.svg?style=for-the-badge&logo=dicom&logoColor=white)
 
 # 🌟 Top Repositories
 - [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate possible lines
