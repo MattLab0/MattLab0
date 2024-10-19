@@ -71,6 +71,7 @@
 - [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate possible lines
 between consecutive points
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1)
+
 
 
