@@ -7,7 +7,7 @@
 🌱 I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems<br>
 💬 Ask me about software development and biomedical engineering research<br>
 ⚡ Fun fact: When I'm not coding, you’ll find me practicing guitar or doing calisthenics<br>
-📬 Contact Me: Feel free to reach out via Linkedin or my Website for collaboration or discussion! 
+📬 Contact Me: Feel free to reach out via Linkedin or my Website for collaborations or inquiries! 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
