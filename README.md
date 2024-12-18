@@ -6,11 +6,12 @@
 🤝 I’m enhancing my knowledge of application security, with a focus on securing APIs and backend systems; feel free to help me with additional resources<br>
 🌱 I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems<br>
 💬 Ask me about software development and biomedical engineering research<br>
-⚡ Fun fact: When I'm not coding, you’ll probably find me practicing guitar or doing calisthenics
-
+⚡ Fun fact: When I'm not coding, you’ll find me practicing guitar or doing calisthenics<br>
+📬 Contact Me: Feel free to reach out via Linkedin or my Website for collaboration or discussion! 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=github&logoColor=white)](https://mattlab0.github.io/)
 
 # 💻 Tech Stack:
 ### Programming Languages
@@ -32,6 +33,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Libraries & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
