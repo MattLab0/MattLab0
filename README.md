@@ -68,10 +68,10 @@
 ![DICOM](https://img.shields.io/badge/DICOM-%23FF6C37.svg?style=for-the-badge&logo=dicom&logoColor=white)
 
 # 🌟 Top Repositories
-- [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate possible lines
-between consecutive points
+- [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
+- [Bookstore](https://github.com/MattLab0/Bookstore) - Developed a Java API to manage books, genres and authors
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.2)
 
 
 
