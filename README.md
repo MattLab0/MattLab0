@@ -1,6 +1,6 @@
 # Welcome 👋
 
-## 💫 I'm Matteo, a Biomedical Engineer and Java & Python Developer; I’m passionate about combining technology and healthcare innovation!
+## 💫 I'm Matteo, a Biomedical Engineer and Java/Python Developer; I’m passionate about combining technology and healthcare innovation!
 🔭 I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs<br>
 👯 I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python, as well as biomedical engineering research<br>
 🤝 I’m enhancing my knowledge of application security, with a focus on securing APIs and backend systems; feel free to help me with additional resources<br>
@@ -69,9 +69,9 @@
 
 # 🌟 Top Repositories
 - [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
-- [Bookstore](https://github.com/MattLab0/Bookstore) - Developed a Java API to manage books, genres and authors
+- [Bookstore](https://github.com/MattLab0/Bookstore) - Developed a Java API bookstore to manage books, genres and authors
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.2.1)
 
 
 
