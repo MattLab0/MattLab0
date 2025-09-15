@@ -1,17 +1,17 @@
-# Welcome 👋
+# Welcome!
 
-## I'm Matteo, a Biomedical Engineer and Java/Python Developer; I’m passionate about combining technology and healthcare innovation!
-🔭 I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs<br>
-👯 I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python, as well as biomedical engineering research<br>
-🤝 I’m enhancing my knowledge of application security, with a focus on securing APIs and backend systems; feel free to help me with additional resources<br>
-🌱 I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems<br>
-💬 Ask me about software development and biomedical engineering research<br>
-⚡ Fun fact: When I'm not coding, you’ll find me practicing guitar or doing calisthenics<br>
-📬 Contact me: Feel free to reach out via Linkedin or my Website for collaborations or inquiries! 
+## I'm Matteo, a Biomedical Engineer and Java/Python Developer <br> I’m passionate about combining technology and healthcare innovation
+- I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs
+- I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python
+- I’m enhancing my knowledge of securing APIs and backend systems; feel free to help me with additional resources
+- I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems
+- Ask me about software development and biomedical engineering research
+- Fun fact: when I'm not coding, you’ll find me practicing guitar or doing calisthenics
+- Feel free to reach out on my socials for collaborations or inquiries! <br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=github&logoColor=white)](https://mattlab0.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
 
 # 💻 Tech Stack:
 ### Programming Languages
