@@ -1,19 +1,23 @@
 # Welcome!
-
-## I'm Matteo, a Biomedical Engineer and Java/Python Developer <br> I’m passionate about combining technology and healthcare innovation
+##  I'm Matteo, a Biomedical Engineer and Java/Python Developer <br> I’m passionate about combining technology and healthcare innovation
 - I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs
 - I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python
 - I’m enhancing my knowledge of securing APIs and backend systems; feel free to help me with additional resources
 - I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems
 - Ask me about software development and biomedical engineering research
 - Fun fact: when I'm not coding, you’ll find me practicing guitar or doing calisthenics
-- Feel free to reach out on my socials for collaborations or inquiries! <br>
+- Feel free to reach out on my socials for collaborations or inquiries 
 
-### 🌐 Socials:
+## Socials:
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=github&logoColor=white)](https://mattlab0.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
 
-# 💻 Tech Stack:
+## Top Repositories
+- [Pattern Project](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
+- [Bookstore](https://github.com/MattLab0/Bookstore) - Created a Java API bookstore to manage books, genres and authors
+- [Dream Journal](https://github.com/MattLab0/DreamJournal) - Developed dream journal in Google Apps Script using JS and HTML, implemented top words frequncy analysys, word clouds, histograms and more
+
+## Tech Stack:
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,13 +28,11 @@
 
 ### Tools & IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-%23000000.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2303A1F3.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%23009B77.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![NXP](https://img.shields.io/badge/nxp-%232C2C2C.svg?style=for-the-badge&logo=nxp&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Libraries & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -48,9 +50,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Operating Systems
-![Windows 7](https://img.shields.io/badge/Windows%207-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2011-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%207_10_11-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%23007C3B.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -67,10 +67,7 @@
 ![NIFTI](https://img.shields.io/badge/NIFTI-%23013243.svg?style=for-the-badge&logo=nifti&logoColor=white)
 ![DICOM](https://img.shields.io/badge/DICOM-%23FF6C37.svg?style=for-the-badge&logo=dicom&logoColor=white)
 
-# 🌟 Top Repositories
-- [PatternProject](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
-- [Bookstore](https://github.com/MattLab0/Bookstore) - Developed a Java API bookstore to manage books, genres and authors
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.2.1)
 
 
