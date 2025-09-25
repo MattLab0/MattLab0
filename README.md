@@ -1,5 +1,5 @@
 # Welcome!
-##  I'm Matteo, a Biomedical Engineer and Java/Python Developer <br> I’m passionate about combining technology and healthcare innovation
+##  I'm Matteo, a Java/Python Developer and Biomedical Engineer <br> I’m passionate about combining technology and healthcare innovation
 - I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs
 - I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python
 - I’m enhancing my knowledge of securing APIs and backend systems; feel free to help me with additional resources
@@ -15,7 +15,7 @@
 ## Top Repositories
 - [Pattern Project](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
 - [Bookstore](https://github.com/MattLab0/Bookstore) - Created a Java API bookstore to manage books, genres and authors
-- [Dream Journal](https://github.com/MattLab0/DreamJournal) - Developed dream journal in Google Apps Script using JS and HTML, implemented top words frequncy analysys, word clouds, histograms and more
+- [Dream Journal](https://github.com/MattLab0/DreamJournal) - Developed NLP-based Journal Analysis Tool in Google Apps Script using JS and HTML, implemented top words frequncy analysys, word clouds, histograms and more
 
 ## Tech Stack:
 ### Programming Languages
