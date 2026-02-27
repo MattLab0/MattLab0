@@ -22,7 +22,7 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 * Deepening my expertise in **Scalable System Architecture** and **API Security**.
 * Currently learning **Dutch** to expand my professional network in the Netherlands.
 * **Ask me about:** Backend development, system integration, and bridging legacy tech with modern stacks.
-* **Interests:** When I'm not coding, you’ll find me practicing guitar or doing calisthenics.
+* **Interests:** When I'm not coding, you’ll find me practicing guitar, doing calisthenics or playing retro-games.
 * **Connect:**
 [![Website/Portfolio](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=open-web&logoColor=white)](https://mattlab0.github.io/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
@@ -30,9 +30,9 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 ---
 
 ## Top Repositories
-- [NLP-based Journal Analysis Tool](https://github.com/MattLab0/DreamJournal) - Developed a journal analysis tool in Google Apps Script using JavaScript and HTML, implemented top words frequncy analysys, word clouds, histograms and more
-- [Bookstore](https://github.com/MattLab0/Bookstore) - Created a ava API to manage books, genres and authors enabling CRUD operations
-- [Pattern Project](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
+- [NLP-based Journal Analysis Tool](https://github.com/MattLab0/nlp-journal-analysis) - Developed a journal analysis tool in Google Apps Script using JavaScript and HTML, implemented top words frequncy analysys, word clouds, histograms and more
+- [Bookstore Management System](https://github.com/MattLab0/bookstore-mgmt-system-spring) - Built a Java API to manage books, genres and authors enabling CRUD operations. Utilized PostgreSQL and DBeaver, implemented SQL queries and optimized database interactions
+- [Spring Boot REST Microservice](https://github.com/MattLab0/spatial-points-rest-api) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
 
 ---
 
@@ -65,12 +65,6 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23000780.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-### Python Libraries
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -79,11 +73,21 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<details>
+<summary><b> View Python Libraries & Biomedical Background</b></summary>
+<br>
+  
+### Python Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 ### Biomedical
 ![MATLAB](https://img.shields.io/badge/matlab-%23E6EBE0.svg?style=for-the-badge&logo=matlab&logoColor=black)
 ![LabVIEW](https://img.shields.io/badge/labview-%23F2C300.svg?style=for-the-badge&logo=labview&logoColor=white)
 ![SPM](https://img.shields.io/badge/spm-%23121D6E.svg?style=for-the-badge&logo=spm&logoColor=white)
 ![FreeSurfer](https://img.shields.io/badge/freesurfer-%23F16E2E.svg?style=for-the-badge&logo=freesurfer&logoColor=white)
 
-
-
+</details>
