@@ -1,21 +1,40 @@
-# Welcome!
-##  I'm Matteo, a Java/Python developer with a background as biomedical engineer <br> I’m passionate about combining technology and healthcare innovation
-- I’m currently working on improving my Java and Python development skills, specifically focusing on Spring Boot and RESTful APIs
-- I’m looking to collaborate on machine learning projects or data analysis initiatives that leverage Java or Python
-- I’m enhancing my knowledge of securing APIs and backend systems; feel free to help me with additional resources
-- I’m currently learning Dutch and diving deeper into Spring Boot for building scalable backend systems
-- Ask me about software development and biomedical engineering research
-- Fun fact: when I'm not coding, you’ll find me practicing guitar or doing calisthenics
-- Feel free to reach out on my socials for collaborations or inquiries 
+# Welcome, I'm Matteo!
 
-## Socials:
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=github&logoColor=white)](https://mattlab0.github.io/)
+### Full Stack Developer | Backend Focus | M.Sc. Biomedical Engineer 
+### I specialize in backend architecture, building secure APIs, and managing databases using **Java (or Python), Node.js, TypeScript and SQL**.
+
+---
+
+### Professional Experience
+**Currently working as a Freelance Developer**, I focus on system integration and process automation. My recent technical work includes:
+* **Service Management Platform:** Engineered a full-stack solution (**TypeScript, MySQL, AWS**) migrating 2,000+ clients from Excel to a relational database, featuring real-time dispatch logic and RBAC-protected APIs.
+* **Legacy System Integration:** Developed high-performance interfaces (**React, Fastify**) to bridge modern web apps with legacy systems (**AS/400**), specifically for logistics and barcode scanning.
+* **Backend Architecture:** Built automated Node.js pipelines and **Java/Spring Boot** REST microservices.
+  
+---
+
+### Academic & Research Background
+I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research at **UMC Utrecht** processing fMRI datasets gave me a solid foundation in complex data analysis, signal processing, and high-level problem solving.
+
+---
+
+### Current Focus & Collaboration
+* Deepening my expertise in **Scalable System Architecture** and **API Security**.
+* Currently learning **Dutch** to expand my professional network in the Netherlands.
+* **Ask me about:** Backend development, system integration, and bridging legacy tech with modern stacks.
+* **Interests:** When I'm not coding, you’ll find me practicing guitar or doing calisthenics.
+* **Connect:**
+[![Website/Portfolio](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=open-web&logoColor=white)](https://mattlab0.github.io/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
+
+---
 
 ## Top Repositories
 - [NLP-based Journal Analysis Tool](https://github.com/MattLab0/DreamJournal) - Developed a journal analysis tool in Google Apps Script using JavaScript and HTML, implemented top words frequncy analysys, word clouds, histograms and more
 - [Bookstore](https://github.com/MattLab0/Bookstore) - Created a ava API to manage books, genres and authors enabling CRUD operations
 - [Pattern Project](https://github.com/MattLab0/PatternProject) - Developed a Java REST application to manage points in a 2D space and calculate lines between consecutive points
+
+---
 
 ## Tech Stack:
 ### Programming Languages
@@ -65,9 +84,6 @@
 ![LabVIEW](https://img.shields.io/badge/labview-%23F2C300.svg?style=for-the-badge&logo=labview&logoColor=white)
 ![SPM](https://img.shields.io/badge/spm-%23121D6E.svg?style=for-the-badge&logo=spm&logoColor=white)
 ![FreeSurfer](https://img.shields.io/badge/freesurfer-%23F16E2E.svg?style=for-the-badge&logo=freesurfer&logoColor=white)
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattLab0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1.2.1)
 
 
 
