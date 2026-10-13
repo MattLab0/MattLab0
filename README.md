@@ -1,4 +1,4 @@
-# Welcome, I'm Matteo!
+# Welcome!
 
 ### Full Stack Developer | Backend Focus | M.Sc. Biomedical Engineer 
 ### I specialize in backend architecture, building secure APIs, and managing databases using **Java (or Python), Node.js, TypeScript and SQL**.
@@ -24,7 +24,6 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 * **Ask me about:** Backend development, system integration, and bridging legacy tech with modern stacks.
 * **Interests:** When I'm not coding, you’ll find me practicing guitar, doing calisthenics or playing retro-games.
 * **Connect:**
-[![Website/Portfolio](https://img.shields.io/badge/Website-%2312100E.svg?style=flat&logo=open-web&logoColor=white)](https://mattlab0.github.io/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
 
 ---
