@@ -22,10 +22,7 @@ I hold a **Master’s degree in Biomedical Engineering** (110/110L). My research
 * Deepening my expertise in **Scalable System Architecture** and **API Security**.
 * Currently learning **Dutch** to expand my professional network in the Netherlands.
 * **Ask me about:** Backend development, system integration, and bridging legacy tech with modern stacks.
-* **Interests:** When I'm not coding, you’ll find me practicing guitar, doing calisthenics or playing retro-games.
-* **Connect:**
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-pesci-87542a176) 
-
+* **Interests:** When I'm not coding, you’ll find me practicing guitar, doing a little sport or playing retro-games.
 ---
 
 ## Top Repositories
